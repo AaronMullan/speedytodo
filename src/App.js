@@ -22,7 +22,6 @@ function App() {
     const newTodos = [...todos, todo]
     setTodos(newTodos);
   }
-  // const deleteTodo = (todo)
 
   return (
     <div className="App">
